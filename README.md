@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/bigwellbara/bigwellbara/main/assets/banner.jpg" alt="Bigwell — software that holds together" width="100%" />
+  <img src="https://raw.githubusercontent.com/bigwellbara/bigwellbara/main/assets/banner.jpg" alt="Bigwell — software that holds together" width="100%" />
 </p>
 
 <p align="center">
@@ -41,18 +41,24 @@ I care about the unglamorous parts: data models, admin tools, and the APIs that 
   </a>
 </p>
 
-Not a badge dump. Languages that show up in my public repos: **C#**, **PHP**, **TypeScript**, **JavaScript**. Data in **MySQL** and **MongoDB**. Frontend when needed: **React**.
+Languages that show up in my **public** repos: **C#**, **PHP**, **TypeScript**, **JavaScript**. Data in **MySQL** and **MongoDB**. Frontend when needed: **React**.
+
+### GitHub stats (public repos only)
+
+These cards only count **public** repositories. They miss org work and private repos — **more than 2,000 commits** live there, plus PRs opened and reviewed.
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=bigwellbara&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats for bigwellbara" />
+      <img src="https://github-readme-stats.shion.dev/api?username=bigwellbara&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="Public GitHub stats for bigwellbara" />
     </td>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bigwellbara&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bigwellbara&layout=compact&theme=transparent&hide_border=true" alt="Top languages in public repos only" />
     </td>
   </tr>
 </table>
+
+<p align="center"><sub>Public only. Private and org commits are not included in the numbers above.</sub></p>
 
 ### Let’s work
 
