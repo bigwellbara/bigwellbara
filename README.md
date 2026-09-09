@@ -3,7 +3,12 @@
 </p>
 
 <p align="center">
-  <strong>Software developer</strong> who builds backends that stay maintainable — <code>.NET</code>, <code>C#</code>, <code>PHP</code>, and <code>Laravel</code>, with TypeScript when the job needs a tighter loop.
+  <strong>Senior Software Engineer. No dress code, no fluff.</strong>
+
+I ship code that works. <code>.NET Core</code>, <code>C#</code>, <code>PHP</code>, <code>Laravel</code> on one side — <code>Django</code>, microservices, and ML/AI models on the other. I build satellite data-driven systems because guessing at soil and water is amateur hour.
+
+I know what the code needs. I do that.I don't do buzzwords. I do commits. If it doesn't run, it doesn't count.People who impress with sentences are on a different planet.
+
 </p>
 
 <p align="center">
