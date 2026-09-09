@@ -23,11 +23,13 @@ I know what the code needs. I do that.I don't do buzzwords. I do commits. If it 
 
 ### What I build
 
-I care about the unglamorous parts: data models, admin tools, and the APIs that keep a product running after launch.
+ I care about the unglamorous parts: data models, admin tools, and the APIs that keep a product running after launch.
 
 - **.NET and C#** for structured server work — MVC apps, services, and domain code with one reason to change
 - **PHP and Laravel** for shipping product backends without ceremony
-- **TypeScript** for tooling that has to talk across processes
+- **TypeScript** for tooling that has to talk across processes — background services, BFFs, Celery workers doing the work nobody notices until it stops
+- **Django and Python** where the problem is closer to data and models than to views
+- **Microservices** split along real boundaries, not because it's trendy — and design patterns used because they solve a problem, not because a book said to
 
 ### Featured work
 
@@ -46,7 +48,7 @@ I care about the unglamorous parts: data models, admin tools, and the APIs that 
   </a>
 </p>
 
-Languages that show up in my **public** repos: **C#**, **PHP**, **TypeScript**, **JavaScript**. Data in **MySQL** and **MongoDB**. Frontend when needed: **React**.
+Languages that show up in my **public** repos: **C#**, **PHP**,**Python** ,**TypeScript**, **JavaScript**. Data in **MySQL** and **MongoDB**. Frontend when needed: **React**.
 
 ### GitHub stats (public repos only)
 
