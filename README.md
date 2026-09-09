@@ -5,7 +5,7 @@
 <p align="center">
   <strong>Senior Software Engineer. No dress code, no fluff.</strong>
 
-I ship code that works. <code>.NET Core</code>, <code>C#</code>, <code>PHP</code>, <code>Laravel</code> on one side — <code>Django</code>, microservices, and ML/AI models on the other. I build satellite data-driven systems because guessing at soil and water is amateur hour.
+I ship code that works. <code>.NET Core</code>, <code>C#</code>, <code>PHP</code>, <code>Laravel</code> on one side — <code>Django</code>, microservices, and <code>ML/AI</code> models on the other. I build satellite data-driven systems.
 
 I know what the code needs. I do that.I don't do buzzwords. I do commits. If it doesn't run, it doesn't count.People who impress with sentences are on a different planet.
 
