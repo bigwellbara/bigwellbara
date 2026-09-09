@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://raw.githubusercontent.com/bigwellbara/bigwellbara/main/assets/banner.jpg" alt="Bigwell — software that holds together" width="100%" />
+ <img src="https://raw.githubusercontent.com/bigwellbara/bigwellbara/assets/banner.jpg" alt="Bigwell — software that holds together" width="100%" />
 </p>
 
 <p align="center">
