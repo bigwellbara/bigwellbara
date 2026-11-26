@@ -35,6 +35,7 @@ I know what the code needs. I do that.I don't do buzzwords. I do commits. If it 
 
 | Project | What it is |
 | :--- | :--- |
+| **[churn-platform](https://github.com/bigwellbara/churn-platform)** · [live demo](https://churn-api-latest-ofya.onrender.com/docs) | End-to-end ML: XGBoost churn model (ROC-AUC 0.85) served by FastAPI in Docker, Prometheus/Grafana monitoring and drift detection, CI/CD that gates the model and smoke tests production, with automatic rollback. |
 | **[Expense Tracker](https://github.com/bigwellbara/Expense-Tracker)** | ASP.NET Core MVC + MongoDB. Income and expense CRUD, a dashboard, monthly and category reports. |
 | **[remote-admin](https://github.com/bigwellbara/remote-admin)** | TypeScript pnpm monorepo: Socket.IO hub, WhatsApp command channel, Windows tray agent. |
 | **[portfolio](https://github.com/bigwellbara/portfolio)** | React site with a contact form. Live at [bigwellbara.github.io/portfolio](https://bigwellbara.github.io/portfolio). |
